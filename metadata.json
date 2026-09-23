@@ -1,0 +1,6 @@
+{
+  "name": "Shoppinho Animal - Moda & Roupas Pet",
+  "description": "Loja especializada em roupinhas confortáveis, casacos soft para cães de todos os portes e gatos, capas de chuva e moletons com entrega rápida e garantia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
